@@ -1,1 +1,15 @@
-/* Write your CSS here! */
+body {
+	width: 100%;
+	max-width: 950px;
+	margin: 8px;
+	background-color: antiquewhite;
+	font-size: 105%;
+    display: block;
+    padding-left: 5px;
+}
+#mainHeading{
+    color: red;
+}
+#testP{
+    color:green;
+}
